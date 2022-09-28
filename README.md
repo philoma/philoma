@@ -5,7 +5,7 @@ https://c.tenor.com/tD8F-WrsD6AAAAAC/graph-chart.gif)](https://philoma.github.io
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
 <h3 align="center">Zestful Data Science and Machine Learning intern as well as a Web Developer with experience in developing high-performance web technologies.</h3>
-<img align="right" alt="Coding" width="350" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoma" alt="philoma" /></a> </p>
 
 
