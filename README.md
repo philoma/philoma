@@ -1,5 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![MasterHead](
-https://media.licdn.com/dms/image/D4E22AQEQrcBSG0o6oQ/feedshare-shrink_1280/0/1670940536936?e=1674086400&v=beta&t=7BzjuoeTMS-N5bdHkC2YRR1DxAf-3Xcg2Zxe04SCQOM)](https://philoma.github.io/MyPortfolio/)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![MasterHead](https://media.licdn.com/dms/image/C5622AQGNt0P0f915aQ/feedshare-shrink_800/0/1675681419663?e=1678924800&v=beta&t=HYWdYPja7380xCuBG-5Xic_yuESpYSzlV10gulVviv8)](https://philoma.github.io/MyPortfolio/)
 
 
 
