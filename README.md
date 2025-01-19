@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">Zestful Data Science and Machine Learning intern as well as a Web Developer with experience in developing high-performance web technologies.</h3>
+<h3 align="center">Results-oriented Machine Learning Engineer with extensive experience in the development and implementation of advanced technologies centered on Vision and NLP</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philoma" alt="philoma" /></a> </p>
 
 
