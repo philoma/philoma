@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS, Kaggle**
+- 🌱 I’m currently **Open to Work**
 
 - 👨‍💻 All of my projects are available at [https://philoma.github.io/MyPortfolio/](https://philoma.github.io/MyPortfolio/)
 
