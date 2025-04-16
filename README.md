@@ -17,7 +17,7 @@
 
 - 📧 Mail me at- [faisaltech02@gmail.com](faisaltech02@gmail.com)
 
-- 💬 Ask me about **LLMs | Computer Vision | Generative AI | ML | Deep Learning | NLP | Deployment | API | Dockers and Python Web Technologies**
+- 💬 Ask me about **LLMs | Computer Vision | Generative AI | ML | Deep Learning | NLP | Deployment | API | Dockers | Power BI and Python Web Technologies**
 
 - 📫 Reach me at **https://www.linkedin.com/in/mfsl54/**
 
